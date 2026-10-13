@@ -7,7 +7,6 @@ NIM : 09011282530055
 Kelas : SKU3A
 
 
-# Tugas-6
 
 VI. Tugas
 1. Eksekusi seluruh profile yang ada :
